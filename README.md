@@ -1,9 +1,9 @@
 # OP-Calculator
 The best calculator for school students.
 
-##How to run the program?
+## How to run the program?
 As of now the only way to run the program is by running this source code. Still working on installer file for windows and appimage for linux.
-####here are the steps to get the code and run it.
+#### here are the steps to get the code and run it.
 
 1.*Ensure you have the latest version of python*
 
